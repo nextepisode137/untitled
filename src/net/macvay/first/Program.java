@@ -14,7 +14,7 @@ public class Program {
         System.out.println(Double.POSITIVE_INFINITY);
 
         System.out.println(DecimalFormat.getCurrencyInstance().format(100.980));
-
+        System.out.println("something changed");
         System.out.println("writed");
     }
 
